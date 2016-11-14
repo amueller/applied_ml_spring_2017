@@ -232,9 +232,7 @@ layout: schedule
 <div class="post">
 <br>
 <p>
-IMLP: Mueller, Guido - Introduction to machine learning with python
-</p>
-<p>
+IMLP: Mueller, Guido - Introduction to machine learning with python<br>
 APM: Kuhn, Johnson - Applied predictive modeling
 </p>
 </div>

@@ -20,7 +20,6 @@ body {
   background-color: #fbfcfd;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
-  font-size: 0.85em;
   overflow: hidden;
 }
 
@@ -286,12 +285,12 @@ a:hover {
 
 .schedule td {
     padding: 5px;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 
 .schedule th {
     padding: 5px;
-    font-size: 1.7em;
+    font-size: 1.3em;
 }
 .schedule tr:nth-of-type(even) {
      background: #e0e0e0;
