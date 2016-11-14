@@ -28,13 +28,10 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for page in site.pages %}
-              <li class="post-link">
-                <a class="post-title" href="{{ site.baseurl }}{{ page.url }}">
-                  {{ page.title }}
-                </a>
-              </li>
-            {% endfor %}
+              <li class="post-link"> <a class="post-title" href="{{ site.baseurl }}/"> Overview </a> </li>
+              <li class="post-link"> <a class="post-title" href="{{ site.baseurl }}/lectures.html"> Schedule </a> </li>
+              <li class="post-link"> <a class="post-title" href="{{ site.baseurl }}/materials.html"> Materials </a> </li>
+              <li class="post-link"> <a class="post-title" href="{{ site.baseurl }}/homework.html"> Homework </a> </li>
           </ul>
         </div>
         <div class="footer">
