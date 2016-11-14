@@ -1,2 +1,2 @@
-# practical_ml_spring_2016
-Website and material for the FIXME course on Practical Machine Learning
+# Applied machine learning
+Website and material for the FIXME course on Applied Machine Learning
