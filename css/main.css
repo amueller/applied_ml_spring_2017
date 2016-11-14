@@ -282,3 +282,18 @@ a:hover {
   font-size: 0.95em;
   color: #777;
 }
+
+
+.schedule td {
+    padding: 5px;
+    font-size: 1.4em;
+}
+
+.schedule th {
+    padding: 5px;
+    font-size: 1.7em;
+}
+.schedule tr:nth-of-type(even) {
+     background: #e0e0e0;
+ }
+
