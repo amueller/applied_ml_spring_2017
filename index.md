@@ -1,6 +1,5 @@
 ---
-layout: post
 title: Overview
 ---
 
-# Welcome!
+## Welcome!

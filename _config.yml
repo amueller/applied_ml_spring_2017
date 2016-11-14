@@ -1,3 +1,11 @@
 name: Applied Machine Learning
 highlighter: rouge
 baseurl: /applied_ml_spring_2017
+defaults:
+    -
+      scope:
+          path: ""
+      values:
+          cover: classifier_comparison.png
+          layout: post
+
