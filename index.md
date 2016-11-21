@@ -30,7 +30,7 @@ to productionizing machine learning models.
 Familiarity with Python programming and basic use of NumPy, pandas and matplotlib.
 
 ### Grading / course grade
-5 homework assignments (50%), midterm exam (25%), final in-class exam (25%).
+5 homework assignments (60%), midterm exam (20%), final in-class exam (20%).
 All homework assignments are programming assignments and need to be submitted
 via Github (as will be explained in the class). The midterm will test material
 from the first half of the class, while the final exam will test material from
