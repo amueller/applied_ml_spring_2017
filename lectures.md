@@ -222,7 +222,7 @@ layout: schedule
 	<tr>
 		<td>16</td>
 		<td align="right" sdval="42856" sdnum="1033;0;MM/DD/YY">05/01/17</td>
-		<td><b>Final</b></td>
+		<td><b>Second Exam</b></td>
 		<td><br></td>
 		<td><br></td>
 	</tr>

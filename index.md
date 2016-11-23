@@ -33,5 +33,5 @@ Familiarity with Python programming and basic use of NumPy, pandas and matplotli
 5 homework assignments (60%), midterm exam (20%), final in-class exam (20%).
 All homework assignments are programming assignments and need to be submitted
 via Github (as will be explained in the class). The midterm will test material
-from the first half of the class, while the final exam will test material from
+from the first half of the class, while the second exam will test material from
 the second half.
