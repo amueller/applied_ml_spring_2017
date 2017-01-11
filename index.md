@@ -13,7 +13,9 @@ title: Overview
 
 **Instructor**: Andreas Mueller  
 **Lectures**: Mondays and Wednesdays 4:10pm-5:25pm  
+**Room**: 428 Pupin Laboratories
 **Dates**: First class 1/18, last class 5/12  
+**Class directory**: [W4995-20171-005](http://www.columbia.edu/cu/bulletin/uwb/subj/COMS/W4995-20171-005/)
 
 ### Description
 This class offers a hands-on approach to machine learning and data science. The
