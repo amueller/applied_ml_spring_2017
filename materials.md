@@ -7,7 +7,7 @@ The following books will help you further your understanding of the material:
 - Müller, Guido: Introduction to machine learning with python (IMLP) (available
   **for free** for Columbia Students via
 (Safari Books Online)[http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/book/programming/machine-learning/9781449369880])
-- Kuhn, Johnson: Applied predictive modeling (APM)
+- Kuhn, Johnson: Applied predictive modeling (APM) (available **for free** at (Springer Link)[http://link.springer.com.ezproxy.cul.columbia.edu/book/10.1007%2F978-1-4614-6849-3]
 - Provost / Fawcett: Data Science for Business (DSfB)
 - Tibshibani, Hastie, Friedman: Elements of Statistical Learning (ESL)
 
@@ -17,4 +17,3 @@ only contains R code. We will not use any R code in this course. DSfB focusses
 on a more high-level perspective and the practical impact of data science,
 while ESL contains a rigorous mathematical treatment of the machine learning
 methods.
-
