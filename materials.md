@@ -2,8 +2,9 @@
 title: Materials
 ---
 ### Recommended reading
-- The following books will help you further your understanding of the material:
-- Mueller, Guido: Introduction to machine learning with python (IMLP)
+The following books will help you further your understanding of the material:
+
+- Müller, Guido: Introduction to machine learning with python (IMLP) (available **for free** for Columbia Students via [http://proquest.safaribooksonline.com.ezproxy.cul.columbia.edu/book/programming/machine-learning/9781449369880](Safari Books Online))
 - Kuhn, Johnson: Applied predictive modeling (APM)
 - Provost / Fawcett: Data Science for Business (DSfB)
 - Tibshibani, Hastie, Friedman: Elements of Statistical Learning (ESL)
