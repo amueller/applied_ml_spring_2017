@@ -17,6 +17,13 @@ title: Overview
 **Dates**: First class 1/18, last class 5/12  
 **Class directory**: [W4995-20171-005](http://www.columbia.edu/cu/bulletin/uwb/subj/COMS/W4995-20171-005/)
 
+### Office Hours
+* Andreas Müller (lecturer) Wednesday 2pm-4pm, 410 Mudd
+* Akshay Khatri (TA) Fridays 2pm-4pm, CS TA Room
+* Aarshay Jain (TA) Mondays 2pm-4pm, CS TA Room
+* Rohan Pitre (TA) TBA
+* Sheallika Singh (TA) Thursdays 3:20pm-5:20pm
+
 ### Description
 This class offers a hands-on approach to machine learning and data science. The
 class discusses the application of machine learning methods like SVMs, Random
