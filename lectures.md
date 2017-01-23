@@ -19,21 +19,21 @@ layout: schedule
 	<tr>
 		<td>1</td>
 		<td align="right" sdval="42753" sdnum="1033;0;MM/DD/YY">01/18/17</td>
-		<td>Introduction; What can machine learning do for you?</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-01-011817_notes.pdf">Introduction; What can machine learning do for you?</a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td align="right" sdval="42758" sdnum="1033;0;MM/DD/YY">01/23/17</td>
-		<td>Python, git, github, Jupyter notebooks</td>
-		<td>IMLP Ch 1</td>
-		<td>Homework 1 posted</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-02-012317_notes.pdf">Python, git, github, testing, CI, documentation</a></td>
+		<td>IMLP Ch 1, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git video</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/homeworks/HomeworkI.pdf">Homework 1 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/25/17</td>
-		<td>Writing fast Python, NumPy, matplotlib, scikit-learn</td>
+		<td>NumPy, pandas, matplotlib, scikit-learn</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
