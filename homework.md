@@ -3,7 +3,7 @@ title: Homework
 ---
 
 ## Homework policy
-All homework assignments are due at 4pm of the day they are posted. No later
+All homework assignments are due at 4pm of the day posted. No later
 submissions (or commits) will be accepted. There are no deadline extensions.
 The last commit before the deadline will be counted as your submission. All
 homework assignments must execute on the Travis continuous integration server
