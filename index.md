@@ -44,3 +44,12 @@ All homework assignments are programming assignments and need to be submitted
 via Github (as will be explained in the class). The midterm will test material
 from the first half of the class, while the second exam will test material from
 the second half.
+
+### Exams
+The exams will be written, no computer or course material allowed.
+Everything that is on the slides or on the notes to the slides is up for
+testing.  There might be some minor coding, but mostly conceptual questions and
+multiple choice.
+
+The syntax of git and the python libraries that were covered  in class (as far
+as they were covered) will be content of the exam.
