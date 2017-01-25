@@ -33,8 +33,8 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/25/17</td>
-		<td>NumPy, pandas, matplotlib, scikit-learn</td>
-		<td><br></td>
+		<td>matplotlib and visualization</td>
+		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
