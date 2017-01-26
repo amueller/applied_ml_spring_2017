@@ -21,7 +21,7 @@ title: Overview
 * Andreas Müller (lecturer) Wednesday 2pm-4pm, 410 Mudd
 * Akshay Khatri (CA) Fridays 2pm-4pm, CS TA Room
 * Aarshay Jain (CA) Mondays 2pm-4pm, CS TA Room
-* Rohan Pitre (CA) Friday 1pm-3pm, CS TA Room
+* Rohan Pitre (CA) Thursdays 1pm-3pm, CS TA Room
 * Sheallika Singh (CA) Thursdays 3:20pm-5:20pm, CS TA Room
 
 ### Description
