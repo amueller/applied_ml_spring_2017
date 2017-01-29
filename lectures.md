@@ -40,43 +40,44 @@ layout: schedule
 	<tr>
 		<td>3</td>
 		<td align="right" sdval="42765" sdnum="1033;0;MM/DD/YY">01/30/17</td>
-		<td>Data loading and visualization</td>
-		<td><br></td>
+		<td>Introduction to supervised learning, basic model selection</td>
+		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">02/01/17</td>
-		<td>Introduction to supervised learning</td>
-		<td>IMLP p25-44, APM Ch 4-4.3</td>
+		<td>Linear models</td>
+		<td>IMLP p45-68, APM Ch 6, Ch 12.1-12.2, 12.5</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td align="right" sdval="42772" sdnum="1033;0;MM/DD/YY">02/06/17</td>
-		<td>Linear models for regression</td>
-		<td>IMLP p45-55, APM Ch 6</td>
+		<td>Data cleaning and preprocessing</td>
+		<td>IMLP p132-140, IMLP ch p211-220, APM Ch 3</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
-		<td>Linear models for classification</td>
-		<td>IMLP p56-68, Ch 12.1-12.2, 12.5</td>
+		<td>Feature engineering for linear models</td>
+		<td>IMLP p220-236, IMPL 3.2, 3.3</td>
 		<td>Homework 1 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/13/17</td>
-		<td>Data cleaning and preprocessing</td>
-		<td>IMLP p132-140, IMLP ch p211-220, APM Ch 3</td>
+		<td>Support Vector Machines for Classification and Regression</td>
+		<td>IMLP p92-103, APM Ch 13.4</td>
+		<td></td>
 		<td>Homework 2 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42781" sdnum="1033;0;MM/DD/YY">02/15/17</td>
-		<td>Feature engineering for linear models</td>
-		<td>IMLP p220-236, IMPL 3.2, 3.3</td>
+		<td>Decision Trees Random Forests, Gradient Boosting</td>
+		<td>IMLP p70-88, APM Ch 14.1-14.4, IMLP p89-92, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -89,29 +90,29 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42788" sdnum="1033;0;MM/DD/YY">02/22/17</td>
-		<td>Grid-search and cross-validation</td>
-		<td>IMLP p251-262, APM Ch 4.4-4.8</td>
+		<td>Model interpretation and variable importance</td>
+		<td>APM ch 18, AMP Ch 19</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>7</td>
+		<td>Model evaluation and imbalanced datasets</td>
+		<td>IMLP p275-302, APM Ch 16</td>
 		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/27/17</td>
-		<td>Support Vector Machines for Classification and Regression</td>
-		<td>IMLP p92-103, APM Ch 13.4</td>
 		<td>Homework 2 due</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42795" sdnum="1033;0;MM/DD/YY">03/01/17</td>
-		<td>Decision Trees and Random Forests </td>
-		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
+		<td>TBA</td>
+		<td></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/06/17</td>
-		<td>Gradient Boosting</td>
-		<td>IMLP p89-92, APM Ch 14.5</td>
+		<td>In-depth data visualization</td>
+		<td></td>
 		<td>Homework 3 posted</td>
 	</tr>
 	<tr>
@@ -138,15 +139,15 @@ layout: schedule
 	<tr>
 		<td>10</td>
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/20/17</td>
-		<td>Model interpretation and variable importance</td>
-		<td>APM ch 18, AMP Ch 19</td>
+		<td>TBA<br></td>
+		<td><br></td>
 		<td>Homework 3 due</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42816" sdnum="1033;0;MM/DD/YY">03/22/17</td>
-		<td>Model evaluation and imbalanced datasets</td>
-		<td>IMLP p275-302, APM Ch 16</td>
+		<td>TBA<br></td>
+		<td><br></td>
 		<td><br></td>
 	</tr>
 	<tr>
