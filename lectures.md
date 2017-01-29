@@ -56,14 +56,14 @@ layout: schedule
 		<td align="right" sdval="42772" sdnum="1033;0;MM/DD/YY">02/06/17</td>
 		<td>Linear models for regression</td>
 		<td>IMLP p45-55, APM Ch 6</td>
-		<td>Homework 1 due</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
 		<td>Linear models for classification</td>
 		<td>IMLP p56-68, Ch 12.1-12.2, 12.5</td>
-		<td><br></td>
+		<td>Homework 1 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
