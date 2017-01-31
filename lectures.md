@@ -70,7 +70,6 @@ layout: schedule
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/13/17</td>
 		<td>Support Vector Machines for Classification and Regression</td>
 		<td>IMLP p92-103, APM Ch 13.4</td>
-		<td></td>
 		<td>Homework 2 posted</td>
 	</tr>
 	<tr>
@@ -96,9 +95,9 @@ layout: schedule
 	</tr>
 	<tr>
 		<td>7</td>
+		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/27/17</td>
 		<td>Model evaluation and imbalanced datasets</td>
 		<td>IMLP p275-302, APM Ch 16</td>
-		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/27/17</td>
 		<td>Homework 2 due</td>
 	</tr>
 	<tr>
