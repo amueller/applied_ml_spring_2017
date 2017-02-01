@@ -33,21 +33,21 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/25/17</td>
-		<td>matplotlib and visualization</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-03-012517_notes.pdf">matplotlib and visualization</a></td>
 		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td align="right" sdval="42765" sdnum="1033;0;MM/DD/YY">01/30/17</td>
-		<td>Introduction to supervised learning, basic model selection</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-04-013017_notes.pdf">Introduction to supervised learning, basic model selection</a></td>
 		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">02/01/17</td>
-		<td>Linear models</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-05-020117_notes.pdf">Linear models for Regression</a></td>
 		<td>IMLP p45-68, APM Ch 6, Ch 12.1-12.2, 12.5</td>
 		<td><br></td>
 	</tr>
