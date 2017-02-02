@@ -48,21 +48,21 @@ layout: schedule
 		<td><br></td>
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">02/01/17</td>
 		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-05-020117_notes.pdf">Linear models for Regression</a></td>
-		<td>IMLP p45-68, APM Ch 6, Ch 12.1-12.2, 12.5</td>
+		<td>IMLP p45-68, APM Ch 6</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td align="right" sdval="42772" sdnum="1033;0;MM/DD/YY">02/06/17</td>
-		<td>Data cleaning and preprocessing</td>
-		<td>IMLP p132-140, IMLP ch p211-220, APM Ch 3</td>
+		<td><a href="#">Linear models for Classification</a></td>
+		<td>IMLP p45-68,  Ch 12.1-12.2, 12.5</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
-		<td>Feature engineering for linear models</td>
-		<td>IMLP p220-236, IMPL 3.2, 3.3</td>
+		<td>Data cleaning, preprocessing and feature engineering</td>
+		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>Homework 1 due</td>
 	</tr>
 	<tr>
