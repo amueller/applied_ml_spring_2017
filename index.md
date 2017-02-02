@@ -13,14 +13,14 @@ title: Overview
 
 **Instructor**: Andreas Mueller  
 **Lectures**: Mondays and Wednesdays 4:10pm-5:25pm  
-**Room**: 408 Zankel **CHANGED**  
+**Room**: 408 Zankel
 **Dates**: First class 1/18, last class 5/12  
 **Class directory**: [W4995-20171-005](http://www.columbia.edu/cu/bulletin/uwb/subj/COMS/W4995-20171-005/)
 
 ### Office Hours
 * Andreas Müller (lecturer) Wednesday 2pm-4pm, 410 Mudd
-* Akshay Khatri (CA) Fridays 2pm-4pm, CS TA Room
-* Aarshay Jain (CA) Mondays 2pm-4pm, CS TA Room
+* Akshay Khatri (CA) Tuesdays 12am-2pm, CS TA Room
+* Aarshay Jain (CA) Fridays 5pm-7pm, CS TA Room
 * Rohan Pitre (CA) Thursdays 1pm-3pm, CS TA Room
 * Sheallika Singh (CA) Thursdays 3:20pm-5:20pm, CS TA Room
 
