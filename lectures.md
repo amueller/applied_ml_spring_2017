@@ -61,7 +61,7 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
-		<td>Data cleaning, preprocessing and feature engineering</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-06-020617.pdf">Preprocessing and feature engineering</a></td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>Homework 1 due</td>
 	</tr>
