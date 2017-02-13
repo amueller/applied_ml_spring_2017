@@ -68,9 +68,9 @@ layout: schedule
 	<tr>
 		<td>5</td>
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/13/17</td>
-		<td>Imputation and Feature Selection</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-07-021317_notes.pdf">Imputation and Feature Selection</a></td>
 		<td>IMLP p236-241, APM Ch 19</td>
-		<td>Homework 2 posted</td>
+		<td><a href="https://docs.google.com/document/d/1EHyWR-GZfwK5a9JJc_nFy3yvVofA11cMjvH7vXE6JH0/edit?usp=sharing">Homework 2 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
