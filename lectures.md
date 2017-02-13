@@ -61,29 +61,29 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-06-020617.pdf">Preprocessing and feature engineering</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-06-020617_notes.pdf">Preprocessing and feature engineering</a></td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>Homework 1 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/13/17</td>
-		<td>Support Vector Machines for Classification and Regression</td>
-		<td>IMLP p92-103, APM Ch 13.4</td>
+		<td>Imputation and Feature Selection</td>
+		<td>IMLP p236-241, APM Ch 19</td>
 		<td>Homework 2 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42781" sdnum="1033;0;MM/DD/YY">02/15/17</td>
-		<td>Decision Trees Random Forests, Gradient Boosting</td>
-		<td>IMLP p70-88, APM Ch 14.1-14.4, IMLP p89-92, APM Ch 14.5</td>
+		<td>Support Vector Machines for Classification and Regression</td>
+		<td>IMLP p92-103, APM Ch 13.4</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td align="right" sdval="42786" sdnum="1033;0;MM/DD/YY">02/20/17</td>
-		<td>Feature Selection</td>
-		<td>IMLP p236-241, APM Ch 19</td>
+		<td>Decision Trees Random Forests, Gradient Boosting</td>
+		<td>IMLP p70-88, APM Ch 14.1-14.4, IMLP p89-92, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
 	<tr>
