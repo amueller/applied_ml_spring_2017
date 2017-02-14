@@ -23,6 +23,7 @@ title: Overview
 * Aarshay Jain (CA) Fridays 5pm-7pm, CS TA Room
 * Rohan Pitre (CA) Thursdays 1pm-3pm, CS TA Room
 * Sheallika Singh (CA) Thursdays 3:20pm-5:20pm, CS TA Room
+* Shiemi Lim (CA) Fridays 1pm-3pm, CA TA Room
 
 ### Description
 This class offers a hands-on approach to machine learning and data science. The
