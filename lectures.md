@@ -61,21 +61,21 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/08/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-06-020817_notes.pdf">Preprocessing and feature engineering</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-07-020817_notes.pdf">Preprocessing and feature engineering</a></td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>Homework 1 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/13/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-07-021317_notes.pdf">Imputation and Feature Selection</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-08-021317_notes.pdf">Imputation and Feature Selection</a></td>
 		<td>IMLP p236-241, APM Ch 19</td>
 		<td><a href="https://docs.google.com/document/d/1EHyWR-GZfwK5a9JJc_nFy3yvVofA11cMjvH7vXE6JH0/edit?usp=sharing">Homework 2 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42781" sdnum="1033;0;MM/DD/YY">02/15/17</td>
-		<td>Support Vector Machines for Classification and Regression</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-09-021517_notes.pdf">Support Vector Machines for Classification and Regression</a></td>
 		<td>IMLP p92-103, APM Ch 13.4</td>
 		<td><br></td>
 	</tr>
