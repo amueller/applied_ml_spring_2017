@@ -1,6 +1,10 @@
 @media (max-width:1309px) {
-  #cover-photo {
+  img#cover-photo {
     max-width: 95%;
+  }
+
+  .content {
+    overflow-x: auto;
   }
 
   .header {
@@ -56,6 +60,10 @@
 
   #cover-photo-container {
     text-align: center;
+  }
+  
+  img#cover-photo {
+    max-width: 100%;
   }
 
   #title {
