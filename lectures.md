@@ -82,15 +82,15 @@ layout: schedule
 	<tr>
 		<td>6</td>
 		<td align="right" sdval="42786" sdnum="1033;0;MM/DD/YY">02/20/17</td>
-		<td>Decision Trees Random Forests, Gradient Boosting</td>
-		<td>IMLP p70-88, APM Ch 14.1-14.4, IMLP p89-92, APM Ch 14.5</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-10-022017_notes.pdf">Decision Trees and Random Forests</td>
+		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42788" sdnum="1033;0;MM/DD/YY">02/22/17</td>
-		<td>Model interpretation and variable importance</td>
-		<td>APM ch 18, AMP Ch 19</td>
+		<td>Gradient Boosting, Calibration</td>
+		<td>IMLP p89-92, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -103,7 +103,7 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42795" sdnum="1033;0;MM/DD/YY">03/01/17</td>
-		<td>TBA</td>
+		<td>Case Studies (bring laptop)</td>
 		<td></td>
 		<td><br></td>
 	</tr>
