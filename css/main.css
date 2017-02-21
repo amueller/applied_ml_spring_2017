@@ -127,6 +127,10 @@ a:hover {
   display: block;
 }
 
+img#cover-photo {
+  max-width: 730px;
+}
+
 #info-container {
   margin-top: 3em;
 }
