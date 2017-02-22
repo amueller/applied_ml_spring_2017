@@ -89,7 +89,7 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42788" sdnum="1033;0;MM/DD/YY">02/22/17</td>
-		<td>Gradient Boosting, Calibration</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-11-022217_notes.pdf">Gradient Boosting, Calibration</a></td>
 		<td>IMLP p89-92, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
@@ -110,7 +110,7 @@ layout: schedule
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/06/17</td>
-		<td>In-depth data visualization</td>
+		<td>TBD (maybe more visualization)</td>
 		<td></td>
 		<td>Homework 3 posted</td>
 	</tr>
