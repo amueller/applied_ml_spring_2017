@@ -82,7 +82,7 @@ layout: schedule
 	<tr>
 		<td>6</td>
 		<td align="right" sdval="42786" sdnum="1033;0;MM/DD/YY">02/20/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-10-022017_notes.pdf">Decision Trees and Random Forests</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-10-022017_notes.pdf">Decision Trees and Random Forests</a></td>
 		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
 		<td><br></td>
 	</tr>
