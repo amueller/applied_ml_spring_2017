@@ -96,7 +96,7 @@ layout: schedule
 	<tr>
 		<td>7</td>
 		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/27/17</td>
-		<td>Model evaluation and imbalanced datasets</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-12-022717.pdf">Model evaluation and imbalanced datasets</a></td>
 		<td>IMLP p275-302, APM Ch 16</td>
 		<td>Homework 2 due</td>
 	</tr>
@@ -110,9 +110,9 @@ layout: schedule
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/06/17</td>
-		<td>TBD (maybe more visualization)</td>
+		<td>PCA, Discriminant Analysis, Manifold Learning</td>
 		<td></td>
-		<td>Homework 3 posted</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -140,7 +140,7 @@ layout: schedule
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/20/17</td>
 		<td>TBA<br></td>
 		<td><br></td>
-		<td>Homework 3 due</td>
+		<td>Homework 3 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -161,7 +161,7 @@ layout: schedule
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/29/17</td>
 		<td>Clustering and mixture models</td>
 		<td>IMLP p168-208</td>
-		<td><br></td>
+		<td>Homework 3 due<br></td>
 	</tr>
 	<tr>
 		<td>12</td>
