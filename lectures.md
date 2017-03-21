@@ -139,7 +139,7 @@ layout: schedule
 		<td>10</td>
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/20/17</td>
         <td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-15-032017.pdf">Resampling strategies for Imbalanced Data</a><br></td>
-        <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="Easy Ensembles">http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf</a></td>
+        <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
         <td><a href="https://docs.google.com/a/columbia.edu/document/d/1DAGu-Obb2tAT23IxdV9-ujm3N6-xZnIECK96N-oJRck/edit?usp=sharing">Homework 3 posted</a></td>
 	</tr>
 	<tr>
