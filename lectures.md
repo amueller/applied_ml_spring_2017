@@ -161,14 +161,14 @@ layout: schedule
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/29/17</td>
 		<td>Outlier Detection</td>
 		<td></td>
-		<td>Homework 3 due<br></td>
+		<td><br></td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/03/17</td>
 		<td>Working with text data</td>
 		<td>IMLP p323-336</td>
-		<td>Homework 4 posted</td>
+		<td>Homework 3 due, Homework 4 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
