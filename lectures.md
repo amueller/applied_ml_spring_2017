@@ -145,7 +145,7 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42816" sdnum="1033;0;MM/DD/YY">03/22/17</td>
-		<td>Clustering and mixture models<br></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-16-032217.pdf">Clustering and mixture models</a></td>
 		<td>IMLP p168-208</td>
 		<td><br></td>
 	</tr>
