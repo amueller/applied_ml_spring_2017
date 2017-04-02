@@ -159,7 +159,7 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/29/17</td>
-		<td>NMF and Outlier Detection</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-18-032917.pdf">NMF and Outlier Detection</a></td>
 		<td>IMLP p140-168</td>
 		<td><br></td>
 	</tr>
@@ -168,21 +168,21 @@ layout: schedule
 		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/03/17</td>
 		<td>Working with text data</td>
 		<td>IMLP p323-336</td>
-		<td>Homework 3 due, Homework 4 posted</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42830" sdnum="1033;0;MM/DD/YY">04/05/17</td>
 		<td>Topic models for text data</td>
 		<td>IMLP p347-355</td>
-		<td><br></td>
+		<td>Homework 3 due, Homework 4 posted</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td align="right" sdval="42835" sdnum="1033;0;MM/DD/YY">04/10/17</td>
 		<td>Neural Networks with Tensorflow</td>
 		<td><br></td>
-		<td>Homework 4 due</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -196,7 +196,7 @@ layout: schedule
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/17/17</td>
 		<td>Convolutional neural networks for image classification</td>
 		<td><br></td>
-		<td>Homework 5 posted</td>
+		<td>Homework 4 due, Homework 5 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
