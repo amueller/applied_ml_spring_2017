@@ -152,7 +152,7 @@ layout: schedule
 	<tr>
 		<td>11</td>
 		<td align="right" sdval="42821" sdnum="1033;0;MM/DD/YY">03/27/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-17-032717.pdf">Cluster evaluation</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-17-032717.pdf">Cluster evaluation</a></td>
 		<td></td>
 		<td><br></td>
 	</tr>
