@@ -175,12 +175,12 @@ layout: schedule
 		<td align="right" sdval="42830" sdnum="1033;0;MM/DD/YY">04/05/17</td>
 		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-20-040517_notes.pdf">Topic models for text data</a></td>
 		<td>IMLP p347-355</td>
-		<td>Homework 3 due, Homework 4 posted</td>
+		<td>Homework 3 due, <a href="https://docs.google.com/document/d/1EhETMeCozeVGhlKW-IcgdPew-k60eGE4M0NQNaRVIVg/edit?usp=sharing">Homework 4 posted</a></td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td align="right" sdval="42835" sdnum="1033;0;MM/DD/YY">04/10/17</td>
-		<td>Neural Networks with Tensorflow</td>
+		<td>Word embeddings; Introduction to Neural Networks</td>
 		<td><br></td>
 		<td></td>
 	</tr>
