@@ -166,14 +166,14 @@ layout: schedule
 	<tr>
 		<td>12</td>
 		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/03/17</td>
-		<td>Working with text data</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-19-040317.pdf">Working with text data</a></td>
 		<td>IMLP p323-336</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42830" sdnum="1033;0;MM/DD/YY">04/05/17</td>
-		<td>Topic models for text data</td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-20-040517_notes.pdf">Topic models for text data</a></td>
 		<td>IMLP p347-355</td>
 		<td>Homework 3 due, Homework 4 posted</td>
 	</tr>
