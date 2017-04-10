@@ -180,14 +180,15 @@ layout: schedule
 	<tr>
 		<td>13</td>
 		<td align="right" sdval="42835" sdnum="1033;0;MM/DD/YY">04/10/17</td>
-		<td>Word embeddings; Introduction to Neural Networks</td>
-		<td><br></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-21-041017_notes.pdf">Word and document embeddings</a></td>
+		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
+        <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42837" sdnum="1033;0;MM/DD/YY">04/12/17</td>
-		<td>Learning and tuning neural networks</td>
+		<td>Neural Networks</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
