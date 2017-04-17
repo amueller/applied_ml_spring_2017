@@ -197,7 +197,7 @@ layout: schedule
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/17/17</td>
 		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-23-041717_notes.pdf">Convolutional neural networks for image classification</a></td>
 		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a></td>
-		<td>Homework 4 due, Homework 5 posted</td>
+		<td>Homework 4 due, <a href="https://docs.google.com/a/columbia.edu/document/d/1L-VoM88gJ1avThtdWuHHA3K8TpvvIn1jQiXZYt0UCSM/edit?usp=sharing">Homework 5 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
