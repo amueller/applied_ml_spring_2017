@@ -188,28 +188,28 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42837" sdnum="1033;0;MM/DD/YY">04/12/17</td>
-		<td>Neural Networks</td>
-		<td><br></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-22-041217_notes.pdf">Neural Networks</a></td>
+		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a><a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/17/17</td>
-		<td>Convolutional neural networks for image classification</td>
-		<td><br></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-23-041717_notes.pdf">Convolutional neural networks for image classification</a></td>
+		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a><a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a><a href="https://keras.io/">keras docs</a></td>
 		<td>Homework 4 due, Homework 5 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42844" sdnum="1033;0;MM/DD/YY">04/19/17</td>
-		<td>Working with time-series data</td>
-		<td><br></td>
+		<td>Even more neural networks</td>
+		<td><a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/24/17</td>
-		<td>Models for time series data</td>
+		<td>Time series data</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
@@ -234,6 +234,7 @@ layout: schedule
 <br>
 <p>
 IMLP: Mueller, Guido - Introduction to machine learning with python<br>
-APM: Kuhn, Johnson - Applied predictive modeling
+APM: Kuhn, Johnson - Applied predictive modeling<br>
+DL: <a href="http://www.deeplearningbook.org/">Goodfellow, Bengio, Courville - Deep Learning</a>
 </p>
 </div>
