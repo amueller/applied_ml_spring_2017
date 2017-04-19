@@ -202,14 +202,14 @@ layout: schedule
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42844" sdnum="1033;0;MM/DD/YY">04/19/17</td>
-		<td>Even more neural networks</td>
-		<td><a href="http://www.deeplearningbook.org/contents/convnets.html">DL Ch 9</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-24-041917_notes.pdf">Even more neural networks</a></td>
+		<td><a href="http://www.deeplearningbook.org/contents/convnets.html">DL Ch 9</a><a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/24/17</td>
-		<td>Time series data</td>
+		<td>Time series data, discussing HW4</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
