@@ -110,7 +110,7 @@ layout: schedule
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/06/17</td>
-		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-13-030617.pdf">PCA, Discriminant Analysis, Manifold Learning</a></td>
+		<td><a href="https://github.com/amueller/applied_ml_spring_2017/raw/master/slides/aml-14-030617.pdf">PCA, Discriminant Analysis, Manifold Learning</a></td>
 		<td>IMLP p140-156, p163-168, APM p35-40</td>
 		<td></td>
 	</tr>
