@@ -218,7 +218,7 @@ layout: schedule
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/26/17</td>
 		<td>Machine Learning in Production</td>
 		<td>IMLP Ch 8, HICC</td>
-		<td>Homework 5 due</td>
+		<td>Homework 5 due [MOVED TO SATURDAY 04/29/17 4pm]</td>
 	</tr>
 	<tr>
 		<td>16</td>
