@@ -209,15 +209,15 @@ layout: schedule
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/24/17</td>
-		<td>Time series data, discussing HW4</td>
+		<td>Time series data</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/26/17</td>
-		<td>Machine Learning in Production</td>
-		<td>IMLP Ch 8, HICC</td>
+		<td>Machine Learning in Production, HW 4</td>
+		<td><a href="https://raw.githubusercontent.com/amueller/applied_ml_spring_2017/master/homeworks/homework4/vision_zero_analysis.ipynb">HW 4 solution</a>IMLP Ch 8, HICC</td>
 		<td>Homework 5 due [MOVED TO SATURDAY 04/29/17 4pm]</td>
 	</tr>
 	<tr>
